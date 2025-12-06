@@ -1,0 +1,6 @@
+Sat Dec  6 10:35:58 EAT 2025 - Processed directory /mnt/c/Users - 6 files
+Sat Dec  6 10:36:17 EAT 2025 - Directory test_folder does not exist.
+2025-12-06 18:08:45 - Processed directory '.' - 8 files
+2025-12-06 18:09:11 - Processed directory '/mnt/c/Users' - 1 files
+2025-12-06 18:10:16 - Error: Directory 'this_folder_does_not_exist' does not exist.
+2025-12-06 18:10:33 - Error: Directory 'test_folder' does not exist.
